@@ -7,7 +7,9 @@ namespace PD_3
 {
     public class Geras
     {
+
+
+
         private int x = 9;
-        //ttttt
     }
 }
