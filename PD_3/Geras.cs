@@ -9,6 +9,7 @@ namespace PD_3
     {
 
         //push
+        //Mantai daryk darba
 
         private int x = 9;
 
