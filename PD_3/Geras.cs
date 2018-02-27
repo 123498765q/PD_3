@@ -10,8 +10,10 @@ namespace PD_3
         private int x = 9;
 
         private int valio = 6;
-        //ttttt
 
-        //labas
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
